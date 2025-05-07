@@ -1,3 +1,4 @@
 # Desarrollo-VDJ
-Carpeta Setup de Github 
+Carpeta Setup de Github.
+
 Ejecutar como administrador.
